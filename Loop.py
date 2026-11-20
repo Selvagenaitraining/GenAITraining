@@ -70,23 +70,33 @@
 #     print()
 
 # Correct Order
-a=1
-while a<=8:
-    b=1
-    while b<=a-1:        
-        print("#",end=" ") 
-        b=b+1       
-    a+=1
-    print("")
-print("\n")
+# a=1
+# while a<=8:
+#     b=1
+#     while b<=a-1:        
+#         print("#",end=" ") 
+#         b=b+1       
+#     a+=1
+#     print("")
+# print("\n")
 
-# Reverse Order
-a=1
-while a<=5:
-    b=a+1
-    while b<=5:        
-        print("#",end=" ") 
-        b=b+1       
-    a+=1
-    print()
+# # Reverse Order
+# a=1
+# while a<=5:
+#     b=a+1
+#     while b<=5:        
+#         print("#",end=" ") 
+#         b=b+1       
+#     a+=1
+#     print()
 
+
+# i = 1
+# while i <= 3:
+#     print("Hello")
+#     i += 1
+# else:
+#     print("Done")
+
+__="hello"
+print(__)
